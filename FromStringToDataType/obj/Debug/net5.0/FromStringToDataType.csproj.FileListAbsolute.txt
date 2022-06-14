@@ -1,0 +1,16 @@
+C:\CodingEnCasa\FromStringToDataType\obj\Debug\net5.0\FromStringToDataType.csprojAssemblyReference.cache
+C:\CodingEnCasa\FromStringToDataType\obj\Debug\net5.0\FromStringToDataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingEnCasa\FromStringToDataType\obj\Debug\net5.0\FromStringToDataType.AssemblyInfoInputs.cache
+C:\CodingEnCasa\FromStringToDataType\obj\Debug\net5.0\FromStringToDataType.AssemblyInfo.cs
+C:\CodingEnCasa\FromStringToDataType\obj\Debug\net5.0\FromStringToDataType.csproj.CoreCompileInputs.cache
+C:\CodingEnCasa\FromStringToDataType\bin\Debug\net5.0\FromStringToDataType.exe
+C:\CodingEnCasa\FromStringToDataType\bin\Debug\net5.0\FromStringToDataType.deps.json
+C:\CodingEnCasa\FromStringToDataType\bin\Debug\net5.0\FromStringToDataType.runtimeconfig.json
+C:\CodingEnCasa\FromStringToDataType\bin\Debug\net5.0\FromStringToDataType.runtimeconfig.dev.json
+C:\CodingEnCasa\FromStringToDataType\bin\Debug\net5.0\FromStringToDataType.dll
+C:\CodingEnCasa\FromStringToDataType\bin\Debug\net5.0\ref\FromStringToDataType.dll
+C:\CodingEnCasa\FromStringToDataType\bin\Debug\net5.0\FromStringToDataType.pdb
+C:\CodingEnCasa\FromStringToDataType\obj\Debug\net5.0\FromStringToDataType.dll
+C:\CodingEnCasa\FromStringToDataType\obj\Debug\net5.0\ref\FromStringToDataType.dll
+C:\CodingEnCasa\FromStringToDataType\obj\Debug\net5.0\FromStringToDataType.pdb
+C:\CodingEnCasa\FromStringToDataType\obj\Debug\net5.0\FromStringToDataType.genruntimeconfig.cache
